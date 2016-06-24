@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Scala Console
+Icon=/home/nutzer/Eclipse/scala-icon.png
+Exec=lxterminal -t "Interactive Scala" -e scala
+Comment=Develop with Scala!
+Categories=Development
+Terminal=false

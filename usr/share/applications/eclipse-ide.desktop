@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Scala IDE
+Icon=/home/nutzer/Eclipse/icon.xpm
+Exec="/home/nutzer/Eclipse/eclipse" %f
+Comment=Develop with fun!
+Categories=Development;IDE;
+Terminal=false

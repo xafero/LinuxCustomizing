@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Python Console
+Icon=/usr/share/icons/Humanity/categories/48/applications-python.svg
+Exec=lxterminal -t "Interactive Python" -e python3
+Comment=Develop with Python!
+Categories=Development
+Terminal=false
