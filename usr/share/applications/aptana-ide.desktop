@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ruby IDE
+Icon=/home/nutzer/Aptana/icon.xpm
+Exec="/home/nutzer/Aptana/AptanaStudio3" %f
+Comment=Develop with crazyness!
+Categories=Development;IDE;
+Terminal=false
