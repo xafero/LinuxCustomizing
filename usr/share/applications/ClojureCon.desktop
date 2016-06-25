@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Clojure Console
+Exec=lxterminal -t "Interactive Clojure" -e java -jar /home/nutzer/clojure/clojure-1.8.0.jar
+Comment=Develop with Clojure!
+Categories=Development
+Terminal=false

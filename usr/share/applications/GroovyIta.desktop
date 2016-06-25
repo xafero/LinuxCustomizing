@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Groovy Console
+Exec="/home/nutzer/groovy/bin/groovyConsole" %f
+Comment=Develop with Groovy!
+Categories=Development
+Terminal=false
