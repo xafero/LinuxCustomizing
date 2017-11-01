@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MonoDevelop
+Icon=/usr/share/icon/monodevelop.png
+Exec="flatpak run com.xamarin.MonoDevelop"
+Comment=Develop .NET apps!
+Categories=Development;IDE;
+Terminal=false

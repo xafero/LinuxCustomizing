@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=muCommander
+Icon=/opt/mucmd/appicon.png
+Exec=/opt/mucmd/mucommander.sh
+Comment=File management for you
+Categories=System Tools;
+Terminal=false
